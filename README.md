@@ -12,7 +12,7 @@ Doors can be unlocked by finding keys on the floor and then interacting with the
 
 ![Image Sample Maze Visualizer not empty](https://i.imgur.com/ImBZX8Q.png)
 
-There are events that occur during the maze that you can attend or ignore. Anything from lectures to reading books on certain topics. Reading books is Philosophy will level you down while reading a book in AI would level you up.
+There are events that occur during the maze that you can attend or ignore. Anything from lectures to reading books on certain topics. Reading books such as Philosophy will level you down while reading a book in AI would level you up.
 
 You have access to the bot’s/student information that roams this maze.
 Each move is logged and each action you do takes a move.
