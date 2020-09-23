@@ -30,6 +30,7 @@ Most of the code implemented in this was put in at incredible speed due to timel
 ## Running my solution
 
 If you want to run my solution you can clone the repo by doing:
+
 `git clone https://github.com/Auzlex/The-Computer-Maze-Assignment/`
 
 Once all the files have downloaded these files in the following order:
