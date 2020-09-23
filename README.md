@@ -21,6 +21,8 @@ You are to take control of the bots decision making and determine how it moves a
 ## The goal
 The goal is to get the highest amount of points or score in this maze with the littlest number of moves made possible and levelling up your bot (student) to the highest it can be.
 
+![Goal Sample Vizualiser](https://i.imgur.com/KunXgnX.png)
+
 ## Giving this ago
 You can download this project and edit the visual studio project file named “Computer Maze Completed.cpp” and editing the function named YourMove()
 Most of the code implemented in this was put in at incredible speed due to timeline constraints and had to skip a phew things.
