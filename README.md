@@ -40,7 +40,7 @@ If you want to run my solution you can clone the repo by doing:
 
 `git clone https://github.com/Auzlex/The-Computer-Maze-Assignment/`
 
-Once all the files have downloaded these files in the following order:
+Once all the files have downloaded open these files in the following order:
 
 1. TheComputerMazeUDPServer.exe – Handles the maze generation and authentication of valid moves
 
