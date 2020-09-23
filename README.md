@@ -6,9 +6,11 @@ At my university we were given a new assignment and to my surprise it was a rand
 
 This maze would generate a 10x10x5 grid a total of 500 rooms to visit and each direction/corridor being locked behind doors.
 
-![Image Sample Maze Visualizer](https://i.imgur.com/ImBZX8Q.png)
+![Visualization of the full maze empty](https://i.imgur.com/bijxKH6.png)
 
 Doors can be unlocked by finding keys on the floor and then interacting with them to pick up them up to be stored within your backpack. Or you can brute force the door and determine its key.
+
+![Image Sample Maze Visualizer not empty](https://i.imgur.com/ImBZX8Q.png)
 
 There are events that occur during the maze that you can attend or ignore. Anything from lectures to reading books on certain topics. Reading books is Philosophy will level you down while reading a book in AI would level you up.
 
