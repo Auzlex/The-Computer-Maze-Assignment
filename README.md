@@ -42,12 +42,10 @@ If you want to run my solution you can clone the repo by doing:
 
 Once all the files have downloaded open these files in the following order:
 
-1. TheComputerMazeUDPServer.exe – Handles the maze generation and authentication of valid moves
-
-2. Launch Visualizer using the shortcut or “The-Computer-Maze-Assignment\TheComputerMazeVisualizerFinal\The Computer Maze Visualizer.exe”
+1. Run the "Setup UDP Server And ComputerMaze.bat" this will run the server and then the client visualizer
 
 **Make sure you wait for the visualizer to load first or it will not have time to initialize the maze on the visualizer**
 
-3. Once it has fully loaded you can then begin to run the “Computer Maze Solver Run Exe” which will run the exe that I have made to solve the maze.
+2. Once it has fully loaded you can then begin to run the “runresolver.bat” which will run the exe that I have made to solve the maze.
 
 One last thing the ports **Required** is that ports that need to be open for loopback traffic on your machine is **6532** and **6533**. Used for communication between server, resolver and visualizer
