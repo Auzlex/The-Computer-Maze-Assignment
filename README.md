@@ -12,7 +12,7 @@ Doors can be unlocked by finding keys on the floor and then interacting with the
 
 ![Image Sample Maze Visualizer not empty](https://i.imgur.com/ImBZX8Q.png)
 
-There are events that occur during the maze that you can attend or ignore. Anything from lectures to reading books on certain topics. Reading books is Philosophy will level you down while reading a book in AI would level you up.
+There are events that occur during the maze that you can attend or ignore. Anything from lectures to reading books on certain topics. Reading books such as Philosophy will level you down while reading a book in AI would level you up.
 
 You have access to the bot’s/student information that roams this maze.
 Each move is logged and each action you do takes a move.
@@ -23,9 +23,16 @@ The goal is to get the highest amount of points or score in this maze with the l
 
 ![Goal Sample Vizualiser](https://i.imgur.com/KunXgnX.png)
 
+## Extras
+Traversing the maze is no easy task as there are teleport zones on the outside the bounds of the maze, they will teleport your bot(student) to a random floor. The highest floor on the maze will not report back any information of your location, You must devise a way of navigating it.
+
+There are also one way paths where that your bot can get trapped and must find a different exit.
+
+The only way for a bot to move up or down on a floor is on the 4 corners of the maze. These stairs provide limited access and can only let you go up or down on the maze from certain floors.
+
 ## Giving this ago
 You can download this project and edit the visual studio project file named “Computer Maze Completed.cpp” and editing the function named YourMove()
-Most of the code implemented in this was put in at incredible speed due to timeline constraints and had to skip a phew things.
+Most of the code implemented in this was put in at incredible speed due to timeline constraints and had to skip a few things.
 
 ## Running my solution
 
@@ -33,7 +40,7 @@ If you want to run my solution you can clone the repo by doing:
 
 `git clone https://github.com/Auzlex/The-Computer-Maze-Assignment/`
 
-Once all the files have downloaded these files in the following order:
+Once all the files have downloaded open these files in the following order:
 
 1. TheComputerMazeUDPServer.exe – Handles the maze generation and authentication of valid moves
 
