@@ -1,0 +1,9 @@
+﻿  Computer Maze Completed.cpp
+Z:\OneDrive UWE\OneDrive - UWE Bristol (Students)\Semester 2\CNS\Assignment 2\The Computer Maze Assignment\Computer Maze Completed\Computer Maze Completed\Computer Maze Completed.cpp(378,6): warning C4101: 'y': unreferenced local variable
+Z:\OneDrive UWE\OneDrive - UWE Bristol (Students)\Semester 2\CNS\Assignment 2\The Computer Maze Assignment\Computer Maze Completed\Computer Maze Completed\Computer Maze Completed.cpp(376,6): warning C4101: 'floor': unreferenced local variable
+Z:\OneDrive UWE\OneDrive - UWE Bristol (Students)\Semester 2\CNS\Assignment 2\The Computer Maze Assignment\Computer Maze Completed\Computer Maze Completed\Computer Maze Completed.cpp(377,6): warning C4101: 'x': unreferenced local variable
+Z:\OneDrive UWE\OneDrive - UWE Bristol (Students)\Semester 2\CNS\Assignment 2\The Computer Maze Assignment\Computer Maze Completed\Computer Maze Completed\Computer Maze Completed.cpp(779,20): warning C4018: '<': signed/unsigned mismatch
+Z:\OneDrive UWE\OneDrive - UWE Bristol (Students)\Semester 2\CNS\Assignment 2\The Computer Maze Assignment\Computer Maze Completed\Computer Maze Completed\Computer Maze Completed.cpp(778,6): warning C4101: 'i': unreferenced local variable
+Z:\OneDrive UWE\OneDrive - UWE Bristol (Students)\Semester 2\CNS\Assignment 2\The Computer Maze Assignment\Computer Maze Completed\Computer Maze Completed\Computer Maze Completed.cpp(794,20): warning C4018: '<': signed/unsigned mismatch
+Z:\OneDrive UWE\OneDrive - UWE Bristol (Students)\Semester 2\CNS\Assignment 2\The Computer Maze Assignment\Computer Maze Completed\Computer Maze Completed\Computer Maze Completed.cpp(793,6): warning C4101: 'i': unreferenced local variable
+  Computer Maze Completed.vcxproj -> Z:\OneDrive UWE\OneDrive - UWE Bristol (Students)\Semester 2\CNS\Assignment 2\The Computer Maze Assignment\Computer Maze Completed\Debug\Computer Maze Completed.exe
