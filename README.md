@@ -1,5 +1,8 @@
 # The Computer Maze Assignment
-Using code and creating an external tool such as a 3d game engine to help solve a computer maze that is randomly generated.
+Using code to solve a maze and creating an external tool such as a 3d game engine to help solve a computer maze that is randomly generated.
+
+## NOTE
+In advance I apologize for the sate the code of this project is in, the commenting is atrocious and does not represent what my current attitude to coding is especially with comments or how my code is structured. At the time of making this project I was new to C++.
 
 ## Introduction
 At my university we were given a new assignment and to my surprise it was a randomly generated computer maze that would generate a random maze depending on the given seed. In this case the seed would be your student ID.
