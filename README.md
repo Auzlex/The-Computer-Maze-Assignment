@@ -11,11 +11,13 @@ This maze would generate a 10x10x5 grid a total of 500 rooms to visit and each d
 
 ![Visualization of the full maze empty](https://i.imgur.com/bijxKH6.png)
 
-Doors can be unlocked by finding keys on the floor and then interacting with them to pick them up, which are then stored within your backpack. Or you can brute force the door and determine its key. Brute forcing is done by using a special option there are many to pick from. My Program had a mode called explore only mode when disabled it would go around the maze brute forcing doors and auto saving their keys for later use. It would log the door position and direction via grid coordinates e.g. "034 = ground floor X:3, Y:4" OR "ROOM 034"
+Doors can be unlocked by finding keys on the floor and then interacting with them to pick them up, which are then stored within your backpack. Or you can brute force the door and determine its key. Brute forcing is done by using a special option there are many to pick from. My Program had a mode called explore only mode when disabled it would go around the maze brute forcing doors and auto saving their keys for later use. It would log the door position and direction via grid coordinates e.g. "034 = ground floor X:3, Y:4" OR "ROOM 034". An important note is that when doing these actions they will take a move. Another goal of the assignment was to get low amount of moves. In the end you can't go around brute forcing doors during assignment examination.
+
+My bot used a simple method of traversing the maze. I implemented a direction system where that all actions the bot does is directed to where the bot is facing. The bot began simply moving south until it hits a wall or door. If it's a wall it will scan all directions for finding a path of least traveled activity. This is possible becuase the bot logs how many times it has passed over a square. This is used to determine where to go next.  If it hits a door. It will consult the saved keys CSV file. And iterate through them to find a matching key. If explore mode is enabled and it fails to find key it will ignore the door.
 
 ![Image Sample Maze Visualizer not empty](https://i.imgur.com/ImBZX8Q.png)
 
-There are events that occur during the maze that you can attend or ignore. Anything from lectures to reading books on certain topics. Reading books such as Philosophy will level you down while reading a book in AI would level you up. So, you will need to decide system to determine if events are worth taking or not.
+There are events that occur during the maze that you can attend or ignore. Anything from lectures to reading books on certain topics. Reading books such as Philosophy will level you down while reading a book in AI would level you up. So, you will need some sort of decision system to determine if events are worth taking or not.
 
 You have access to the bot’s/student information that roams this maze.
 Each move is logged and each action you do takes a move.
